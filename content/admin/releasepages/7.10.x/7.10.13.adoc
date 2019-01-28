@@ -1,0 +1,34 @@
+---
+Title: 7.10.13
+weight: 50
+---
+
+:experimental:
+
+= *7.10.13
+
+_Released 29th Jan 2019_
+
+== **Assets**
+
+* https://github.com/salesagility/SuiteCRM/archive/v7.10.13.zip[*Source code* (zip)]
+* https://github.com/salesagility/SuiteCRM/archive/v7.10.13.tar.gz[*Source code* (tar.gz)]
+
+=== **Release Notes**
+
+
+==== **Bug Fixes**
+
+===== Emails
+
+* https://github.com/salesagility/SuiteCRM/issues/6102[#6012 ]
+* https://github.com/salesagility/SuiteCRM/issues/5851[#5851 ]
+* https://github.com/salesagility/SuiteCRM/issues/5757[#5757 ]
+
+'''
+
+
+Please https://suitecrm.com/download[visit the official website] to find the appropriate upgrade.
+
+To report any security issues please follow our Security Process and send them directly to us
+via email security@suitecrm.com.
